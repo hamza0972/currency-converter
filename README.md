@@ -31,6 +31,12 @@ This is a simple real-time currency converter web application built using **Stre
 
 ---
 
+## 🌐 Live Demo
+👉 Try the live app here:  
+https://huggingface.co/spaces/hamza0972/currency-converter-app  
+
+---
+
 ## ▶️ Run Locally
 
 ### 1. Clone the repository
